@@ -1,5 +1,5 @@
 # Robotic Arm Forward Kinematics using Modern Robotics
-# Author: [Your Name]
+# Author: Hassan younes
 # Date: 2025-09-20
 # Description:
 # This script computes the forward kinematics of a 6-DOF robotic arm
